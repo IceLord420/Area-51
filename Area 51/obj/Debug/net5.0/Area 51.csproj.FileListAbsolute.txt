@@ -1,0 +1,16 @@
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.exe
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.deps.json
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.runtimeconfig.json
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.runtimeconfig.dev.json
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.dll
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\ref\Area 51.dll
+D:\Visual Studio Projects\Area 51\Area 51\bin\Debug\net5.0\Area 51.pdb
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.AssemblyInfo.cs
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.dll
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\ref\Area 51.dll
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.pdb
+D:\Visual Studio Projects\Area 51\Area 51\obj\Debug\net5.0\Area 51.genruntimeconfig.cache
